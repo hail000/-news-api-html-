@@ -1,0 +1,32 @@
+
+.main_head{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.main_head svg{
+    width : 400px;
+}
+
+.news_menu{
+    border-top : 2px solid blue;
+    border-bottom : 2px solid blue;
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    
+}
+.news_menu button{
+    margin: 5px 5px 5px 5px; 
+    border: none;
+    background: none;
+    
+}
+
+.news_img {
+    max-width: 100%;
+    max-height: 250px;
+}
+.line{
+    border-bottom: 2px solid black ;
+}
